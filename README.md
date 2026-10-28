@@ -20,8 +20,8 @@ Backend-разработчик. Специализируюсь на Go и соп
 ### 📊 Статистика активности
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamil-Esedov&theme=tokyonight" alt="Статистика" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamil-Esedov&theme=tokyonight&hide_border=true" alt="Серии коммитов" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamil-Esedov&theme=tokyonight" alt="Статистика Kamil-Esedov" width="495" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamil-Esedov&theme=tokyonight&hide_border=true" alt="Серии коммитов" width="495" />
 </p>
 
 ---
